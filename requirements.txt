@@ -1,0 +1,9 @@
+pandas>=1.5.0
+numpy>=1.22.0
+ccxt>=2.6.0
+matplotlib>=3.5.1
+ta>=0.10.1
+PyQt5>=5.15.6
+pyqtgraph>=0.12.4
+seaborn>=0.11.2
+plotly>=5.10.0
